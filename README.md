@@ -8,5 +8,6 @@
 ![CSS](https://img.shields.io/badge/CSS-010101?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![SCSS](https://img.shields.io/badge/SCSS-010101?style=for-the-badge&logo=sass&logoColor=c86799)
 ![JS](https://img.shields.io/badge/Java%20Script-010101?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 
